@@ -1,7 +1,8 @@
 ## This Java mobile app provides inventory management systems functionality.
 
 ### Documentation:
-
+[Application Design Proposal](https://github.com/CHenshaw010/Mobile-App-Development/blob/main/App%20Design%20Proposal.pdf)
+[Application Launch Plan](https://github.com/CHenshaw010/Mobile-App-Development/blob/main/App%20Launch%20Plan.pdf)
 
 ### Application Description:
 The application I have chosen to work on is the inventory app. The main purpose of the app is to streamline the inventory management of items held in a warehouse. It will be used by various employees to enhance their professional operations and increase production efficiency.
