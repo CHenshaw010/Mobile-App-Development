@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">ChristianHenshawProjectTwo</string>
+    <string name="appNameMenu">The Inventory App</string>
+    <string name="enterUsername">Enter Username</string>
+    <string name="enterPassword">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="registerAccount">REGISTER</string>
+    <string name="loginAccount">SIGN IN</string>
+    <string name="imageDescription">Inventory Application Logo</string>
+    <string name="addInventoryItem">Add New Item</string>
+    <string name="addInventoryStock">Add Inventory Stock</string>
+    <string name="addItemName">Item Name:</string>
+    <string name="addItemNameHint">Enter Item Name</string>
+    <string name="addItemQuantity">Item Quantity:</string>
+    <string name="addItemQuantityHint">Enter Item Quantity</string>
+    <string name="addItemAddButton">ADD ITEM</string>
+    <string name="addItemCancelButton">CANCEL</string>
+    <string name="inventoryOverview">Inventory Overview</string>
+    <string name="overview">Inventory Overview</string>
+    <string name="inventoryOverviewDelete">Delete?</string>
+    <string name="inventoryOverviewItemName">Item Name</string>
+    <string name="inventoryOverviewHeaderText">Available Stock</string>
+    <string name="inventoryOverviewItemAmount">Count</string>
+    <string name="inventoryOverviewItemEdit">Edit</string>
+    <string name="notificationSMS">SMS Messaging Notification</string>
+    <string name="editItem">Edit Inventory item</string>
+    <string name="editItemName">Item Name:</string>
+    <string name="editItemQuantity">Enter New Item Quantity:</string>
+    <string name="editItemButton">EDIT ITEM</string>
+    <string name="editInventoryStock">Edit Inventory Stock</string>
+
+    <string name="SMSTitle">Notification Verification</string>
+    <string name="SMSMessage">Would you like to receive SMS notifications when an inventory item reaches zero?</string>
+    <string name="SMSEnable">Accept</string>
+    <string name="SMSDisable">Cancel</string>
+    <string name="SMSAreDisabled">SMS Notifications are Disabled</string>
+
+</resources>
