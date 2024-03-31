@@ -1,14 +1,14 @@
 ## This Java mobile app provides inventory management systems functionality.
 
 ### Documentation:
-[Application Design Proposal](https://github.com/CHenshaw010/Mobile-App-Development/blob/main/App%20Design%20Proposal.pdf)
+- [Application Design Proposal](https://github.com/CHenshaw010/Mobile-App-Development/blob/main/App%20Design%20Proposal.pdf)
 
-[Application Launch Plan](https://github.com/CHenshaw010/Mobile-App-Development/blob/main/App%20Launch%20Plan.pdf)
+- [Application Launch Plan](https://github.com/CHenshaw010/Mobile-App-Development/blob/main/App%20Launch%20Plan.pdf)
 
 ### Code:
-[Layouts](https://github.com/CHenshaw010/Mobile-App-Development/tree/main/app/src/main/res/layout)
+- [Layouts](https://github.com/CHenshaw010/Mobile-App-Development/tree/main/app/src/main/res/layout)
 
-[Controllers](https://github.com/CHenshaw010/Mobile-App-Development/tree/main/app/src/main/java/com/zybooks/christianhenshawprojecttwo)
+- [Controllers](https://github.com/CHenshaw010/Mobile-App-Development/tree/main/app/src/main/java/com/zybooks/christianhenshawprojecttwo)
 
 ### Application Demonstration With Pictures (Note Space Concerns):
 <details>
