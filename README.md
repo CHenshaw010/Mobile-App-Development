@@ -2,7 +2,56 @@
 
 ### Documentation:
 [Application Design Proposal](https://github.com/CHenshaw010/Mobile-App-Development/blob/main/App%20Design%20Proposal.pdf)
+
 [Application Launch Plan](https://github.com/CHenshaw010/Mobile-App-Development/blob/main/App%20Launch%20Plan.pdf)
+
+### Code:
+[Layouts](https://github.com/CHenshaw010/Mobile-App-Development/tree/main/app/src/main/res/layout)
+
+[Controllers](https://github.com/CHenshaw010/Mobile-App-Development/tree/main/app/src/main/java/com/zybooks/christianhenshawprojecttwo)
+
+### Application Demonstration With Pictures (Note Space Concerns):
+<details>
+  <summary>Login Screen</summary>
+
+  ![Login Screen](https://github.com/CHenshaw010/Mobile-App-Development/blob/7eb5098b9e37fd98ca3d57bcfbacc54aea39ebba/App%20Demo%20Pictures/Login_Screen.png)
+
+</details>
+
+<details>
+  <summary>Add New Item Screen</summary>
+
+  ![Add New Item Screen](https://github.com/CHenshaw010/Mobile-App-Development/blob/7eb5098b9e37fd98ca3d57bcfbacc54aea39ebba/App%20Demo%20Pictures/Add_New_Item_Screen.png)
+
+</details>
+
+<details>
+  <summary>Item Inventory Screen</summary>
+
+  ![Item Inventory Screen](https://github.com/CHenshaw010/Mobile-App-Development/blob/7eb5098b9e37fd98ca3d57bcfbacc54aea39ebba/App%20Demo%20Pictures/Item_Inventory_Screen.png)
+
+</details>
+
+<details>
+  <summary>Edit Existing Item Screen</summary>
+
+  ![Edit Existing Item Screen](https://github.com/CHenshaw010/Mobile-App-Development/blob/7eb5098b9e37fd98ca3d57bcfbacc54aea39ebba/App%20Demo%20Pictures/Edit_Item_Screen.png)
+
+</details>
+
+<details>
+  <summary>Built In SMS Notification Prompt (Informs when an item stock reaches zero)</summary>
+
+  ![Built In SMS Notification Prompt](https://github.com/CHenshaw010/Mobile-App-Development/blob/7eb5098b9e37fd98ca3d57bcfbacc54aea39ebba/App%20Demo%20Pictures/Built_In_SMS_Notifications.png)
+
+</details>
+
+<details>
+  <summary>Insufficient Item Quantity Alert</summary>
+
+  ![Insufficient Item Quantity Alert](https://github.com/CHenshaw010/Mobile-App-Development/blob/7eb5098b9e37fd98ca3d57bcfbacc54aea39ebba/App%20Demo%20Pictures/Insufficient_Item_Quantity_Alert.png)
+
+</details>
 
 ### Application Description:
 The application I have chosen to work on is the inventory app. The main purpose of the app is to streamline the inventory management of items held in a warehouse. It will be used by various employees to enhance their professional operations and increase production efficiency.
