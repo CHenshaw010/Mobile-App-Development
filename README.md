@@ -1,4 +1,4 @@
-## This Java mobile app provides inventory management systems functionality.
+## This Adroid Studio mobile app provides inventory management systems functionality.
 
 ### Documentation:
 - [Application Design Proposal](https://github.com/CHenshaw010/Mobile-App-Development/blob/main/App%20Design%20Proposal.pdf)
